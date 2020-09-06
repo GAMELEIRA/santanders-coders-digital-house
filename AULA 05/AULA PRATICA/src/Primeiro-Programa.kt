@@ -1,0 +1,11 @@
+/**
+ * AUTOR: GABRIEL GAMELEIRA DOS SANTOS
+ * DATA: 02/09/2020
+ * HORA: 21:55
+ * FINALIDADE DO PROGRAMA: EXIBIR UMA MENSAGEM SIMPLES NA TELA
+ * */
+fun main() {
+
+    print("Gabriel Gameleira");
+
+}
