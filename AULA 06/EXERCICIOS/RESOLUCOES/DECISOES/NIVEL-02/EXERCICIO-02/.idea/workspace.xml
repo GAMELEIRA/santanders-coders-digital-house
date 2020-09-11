@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f09c2d1-37d0-4ebd-8614-4a54f038fd6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/src/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-01/src/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-03/src/Application.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/EXERCICIO-02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4f09c2d1-37d0-4ebd-8614-4a54f038fd6d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
