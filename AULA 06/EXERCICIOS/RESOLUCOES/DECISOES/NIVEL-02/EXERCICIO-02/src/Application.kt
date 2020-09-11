@@ -1,72 +1,72 @@
 /**
  * AUTOR: GABRIEL GAMELEIRA DOS SANTOS
- * DATA: 09/09/2020
- * HORA: 19:42
- * FINALIDADE DO PROGRAMA: DETERMINAR SE E PAR OU IMPAR
+ * DATA: 11/09/2020
+ * HORA: 14:57
+ * FINALIDADE DO PROGRAMA:
  * */
 
-fun main ()  {
+fun main() {
 
-    var numeroInteiro: Int = 0;
+    var valorSaque: Double = 0.0;
 
-    var eInteiro: Boolean = false;
+    var aprovacaoSaque : Boolean = false;
 
-    var eImpar: Boolean = false
+    valorSaque = solicitarValorSaque();
 
-    numeroInteiro = solicitarNumero();
+    aprovacaoSaque = validarMinimoMaximo(valorSaque);
 
-    eImpar = validarParImpar(numeroInteiro);
+    if(aprovacaoSaque) {
 
-    exibirResultado(eImpar);
-
-}
-
-fun solicitarNumero(): Int {
-
-    var numeroInteiro: Int = 0;
-
-    try {
-
-        println("Informe um número inteiro:")
-
-        numeroInteiro = readLine()!!.toInt();
-
-    } catch (e : Error){
-
-        throw error("Valor informado não é um número inteiro.");
-
-    }
-
-    return numeroInteiro;
-
-}
-
-fun validarParImpar(numero: Int) : Boolean {
-
-    var numeroInteiro : Int = 0;
-
-    numeroInteiro = numero % 2;
-
-    when (numeroInteiro) {
-
-        0 -> return true;
-
-        else -> return  false
+        liberarNotas(valorSaque);
 
     }
 
 }
 
-fun exibirResultado(eImpar : Boolean) {
+fun solicitarValorSaque(): Double {
 
-    if(eImpar) {
+    var valorSaque: Double = 0.0;
 
-        print("É par!");
+    println("Informe o valor do saque: ");
 
-    } else {
+    valorSaque = readLine()!!.toDouble();
 
-        print("É impar!");
+    return valorSaque;
 
-    }
+}
+
+fun validarMinimoMaximo(valorSaque: Double): Boolean {
+
+    var valorMinimo : Double = 600.0;
+
+    var valorMaximo : Double = 10.0;
+
+    var aprovacaoSaque : Boolean = false;
+
+    aprovacaoSaque = valorSaque >= valorMinimo && valorSaque <= valorMaximo;
+
+    return aprovacaoSaque;
+
+}
+
+fun liberarNotas(valorSaque: Double){
+
+    var notaUm = 1;
+
+    var notaCinco = 5;
+
+    var notaDez = 10;
+
+    var notaCinquenta = 50;
+
+    var notaCem = 100;
+
+
+
+}
+
+fun calcularNotas(nota: Double, valorSaque: Double){
+
+
 
 }

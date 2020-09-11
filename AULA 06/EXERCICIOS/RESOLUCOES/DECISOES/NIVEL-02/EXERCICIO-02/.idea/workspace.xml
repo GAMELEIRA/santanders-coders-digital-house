@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f09c2d1-37d0-4ebd-8614-4a54f038fd6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/src/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-01/src/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-03/src/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/EXERCICIO-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hNLavZTiwZVnBrNc6XWt2MekSV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXERCICIO-03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f09c2d1-37d0-4ebd-8614-4a54f038fd6d" name="Default Changelist" comment="" />
+      <created>1599846674524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599846674524</updated>
+      <workItem from="1599846675935" duration="60000" />
+      <workItem from="1599846969730" duration="2732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1826" y="118" key="FileChooserDialogImpl" timestamp="1599849109234">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1826" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599849109234" />
+    <state x="1428" y="0" key="new project wizard" timestamp="1599849100963">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1428" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599849100963" />
+  </component>
+</project>
