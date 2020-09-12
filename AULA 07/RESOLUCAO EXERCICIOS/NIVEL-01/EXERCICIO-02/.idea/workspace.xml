@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3530446-0fb8-4543-b638-a9172f0c8405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIO-02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +37,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -86,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599866955165</updated>
-      <workItem from="1599866957617" duration="890000" />
+      <workItem from="1599866957617" duration="1730000" />
     </task>
     <servers />
   </component>
@@ -94,21 +91,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1599867818123">
+    <state width="1300" height="2" key="GridCell.Tab.0.bottom" timestamp="1599869254842">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599867818123" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1599867818123">
+    <state width="1300" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599869254842" />
+    <state width="1300" height="2" key="GridCell.Tab.0.center" timestamp="1599869254842">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599867818123" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1599867818123">
+    <state width="1300" height="2" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599869254842" />
+    <state width="1300" height="2" key="GridCell.Tab.0.left" timestamp="1599869254842">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599867818123" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1599867818123">
+    <state width="1300" height="2" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599869254842" />
+    <state width="1300" height="2" key="GridCell.Tab.0.right" timestamp="1599869254842">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599867818123" />
+    <state width="1300" height="2" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599869254842" />
+    <state x="1366" y="0" key="new project wizard" timestamp="1599869248114">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1366" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1599869248114" />
   </component>
 </project>
