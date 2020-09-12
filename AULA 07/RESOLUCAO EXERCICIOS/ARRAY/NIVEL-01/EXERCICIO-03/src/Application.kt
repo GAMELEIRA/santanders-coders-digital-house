@@ -2,14 +2,14 @@
  * AUTOR: GABRIEL GAMELEIRA DOS SANTOS
  * DATA: 11/09/2020
  * HORA: 20:00
- * FINALIDADE DO PROGRAMA: CRIAR UM VETOR QUE RECEBA 5 NUMEROS INTEIROS
- * */
+ * FINALIDADE DO PROGRAMA: CRIAR UM VETOR QUE RECEBA A ALTURA DE 10 PESSOAS
+ * * */
 
 fun main() {
 
     var quantidadePessoas: Int = 5;
 
-    var array: ArrayList<Double> =  ArrayList<Double>();
+    var array: ArrayList<Double> = ArrayList<Double>();
 
     solicitarAlturaPessoas(quantidadePessoas, array);
 
@@ -19,11 +19,11 @@ fun main() {
 
 fun solicitarAlturaPessoas(quantidadePessoas: Int, array: ArrayList<Double>) {
 
-    var numero : Double = 0.0;
+    var numero: Double = 0.0;
 
     for (i in 1..quantidadePessoas) {
 
-        println("Informe o valor do número ${i}")
+        println("Informe o valor do número ${i}");
 
         numero = readLine()!!.toDouble();
 
@@ -32,3 +32,5 @@ fun solicitarAlturaPessoas(quantidadePessoas: Int, array: ArrayList<Double>) {
     }
 
 }
+
+fun ehPar(i: Int) = i % 2 == 0;
