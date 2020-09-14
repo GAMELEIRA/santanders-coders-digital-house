@@ -2,17 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7757a43b-d702-47ee-96be-4654375bccbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIO-06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/ESTRUTURA BASICA/INTRODUÇÃO A KOTLIN E ESTRUTURA BÁSICA - EXERCICIOS.docx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/FUNCAO/Exercício - Função.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/LISTA/Exercício - Lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/EXERCICIO-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/out/production/EXERCICIO-01/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/out/production/EXERCICIO-01/META-INF/EXERCICIO-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-01/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/EXERCICIO-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-02/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/EXERCICIO-03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY/NIVEL-01/EXERCICIO-03/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/EXERCICIO-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/out/production/EXERCICIO-01/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/out/production/EXERCICIO-01/META-INF/EXERCICIO-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/EXERCICIO-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/EXERCICIO-03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/EXERCICIO-04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/out/production/EXERCICIO-04/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/out/production/EXERCICIO-04/META-INF/EXERCICIO-04.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/EXERCICIO-05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/out/production/EXERCICIO-05/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/out/production/EXERCICIO-05/META-INF/EXERCICIO-05.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-05/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCICIO-06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-06/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-06/META-INF/EXERCICIO-06.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/EXERCICIO-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-01/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/EXERCICIO-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-02/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/EXERCICIO-03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FUNCAO/NIVEL-01/EXERCICIO-03/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NIVEL-01/EXERCICIO-03/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +217,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600115146806</updated>
-      <workItem from="1600115148945" duration="208000" />
+      <workItem from="1600115148945" duration="536000" />
     </task>
     <servers />
   </component>
@@ -93,5 +229,21 @@
       <screen x="1366" y="0" width="1360" height="728" />
     </state>
     <state x="1500" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115357362" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1600115686613">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115686613" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1600115686613">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115686613" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1600115686613">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115686613" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1600115686613">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115686613" />
   </component>
 </project>

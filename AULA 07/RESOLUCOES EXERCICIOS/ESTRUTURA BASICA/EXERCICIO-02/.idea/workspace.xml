@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6e1dc70-74e0-42fc-8ca0-33913335b5be" name="Default Changelist" comment="">
+    <list default="true" id="461c48d5-e152-4b73-a1c3-46850a605ea2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/ESTRUTURA BASICA/INTRODUÇÃO A KOTLIN E ESTRUTURA BÁSICA - EXERCICIOS.docx.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/FUNCAO/Exercício - Função.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../LISTA DE EXERCICIOS/LISTA/Exercício - Lista.pdf" beforeDir="false" />
@@ -53,18 +53,7 @@
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/out/production/EXERCICIO-01/ApplicationKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/out/production/EXERCICIO-01/META-INF/EXERCICIO-01.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-01/src/Application.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/EXERCICIO-02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
@@ -72,11 +61,22 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCICIO-03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCICIO-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCICIO-02/META-INF/EXERCICIO-02.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/EXERCICIO-03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-03/src/Application.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -109,7 +109,7 @@
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/EXERCICIO-06.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/out/production/EXERCICIO-06/ApplicationKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXERCICIO-06/out/production/EXERCICIO-06/META-INF/EXERCICIO-06.kotlin_module" beforeDir="false" />
@@ -171,7 +171,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1hW1zTzjzYdJEs78Bpe27fthUGl" />
+  <component name="ProjectId" id="1hVzQhZKb5Bma9HE2BagiRbSqHH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -182,7 +182,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../AULA 05/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/AULA -05-LICAO-CASA-EXERCICIO-1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -191,8 +190,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration name="ValidarPar" type="JetRunConfigurationType">
-      <module name="EXERCICIO-03" />
+    <configuration name="ValidarCaracter" type="JetRunConfigurationType">
+      <module name="EXERCICIO-02" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -208,13 +207,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6e1dc70-74e0-42fc-8ca0-33913335b5be" name="Default Changelist" comment="" />
-      <created>1600112299045</created>
+      <changelist id="461c48d5-e152-4b73-a1c3-46850a605ea2" name="Default Changelist" comment="" />
+      <created>1600111046263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600112299045</updated>
-      <workItem from="1600112300867" duration="1313000" />
-      <workItem from="1600115890028" duration="24000" />
+      <updated>1600111046263</updated>
+      <workItem from="1600111050118" duration="1848000" />
     </task>
     <servers />
   </component>
@@ -222,33 +220,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600112798964">
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600111977883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112798964" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600115917275">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600111977883" />
+    <state width="1300" height="179" key="GridCell.Tab.0.bottom" timestamp="1600115685028">
+      <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600115917275" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600115694579">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112149252" />
+    <state width="1300" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115685028" />
+    <state width="1300" height="179" key="GridCell.Tab.0.center" timestamp="1600115685027">
+      <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600115694579" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600115694579">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112149251" />
+    <state width="1300" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115685027" />
+    <state width="1300" height="179" key="GridCell.Tab.0.left" timestamp="1600115685027">
+      <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600115694579" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600115694579">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112149250" />
+    <state width="1300" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115685027" />
+    <state width="1300" height="179" key="GridCell.Tab.0.right" timestamp="1600115685028">
+      <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600115694579" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600115694579">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112149251" />
+    <state width="1300" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600115685028" />
+    <state x="1637" y="0" key="new project wizard" timestamp="1600112296537">
+      <screen x="1366" y="0" width="1360" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600115694579" />
-    <state x="274" y="0" key="new project wizard" timestamp="1600112970544">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="274" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600112970544" />
+    <state x="1637" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600112296537" />
   </component>
 </project>
