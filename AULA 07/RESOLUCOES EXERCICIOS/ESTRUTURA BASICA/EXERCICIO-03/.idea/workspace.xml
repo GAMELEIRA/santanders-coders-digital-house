@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6e1dc70-74e0-42fc-8ca0-33913335b5be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/EXERCICIO-05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/src/Application.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-04/src/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/EXERCICIO-06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-06/src/Application.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
