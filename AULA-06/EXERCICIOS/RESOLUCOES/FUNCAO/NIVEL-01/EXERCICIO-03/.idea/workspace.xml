@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb487fd8-3e01-4c03-b13c-dec2d4af12fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LISTA DE EXERCICIOS/ESTRUTURA-BASICA/INTRODUÇÃO A KOTLIN E ESTRUTURA BÁSICA - EXERCICIOS.docx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LISTA DE EXERCICIOS/FUNCAO/Exercício - Função.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LISTA DE EXERCICIOS/LISTA/Exercício - Lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-02/src/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hYO0SF6jLE1Htdrb7hU7wyZNWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb487fd8-3e01-4c03-b13c-dec2d4af12fd" name="Default Changelist" comment="" />
+      <created>1600184338127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600184338127</updated>
+      <workItem from="1600184339363" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1826" y="118" key="FileChooserDialogImpl" timestamp="1600184440390">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1826" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600184440390" />
+    <state x="1637" y="0" key="new project wizard" timestamp="1600184455874">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1637" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600184455874" />
+  </component>
+</project>
