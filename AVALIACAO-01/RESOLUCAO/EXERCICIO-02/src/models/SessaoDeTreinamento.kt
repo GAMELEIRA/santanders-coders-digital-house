@@ -16,7 +16,9 @@ class SessaoDeTreinamento constructor(){
 
         this.experiencia++;
 
-        println("Experiência depois do treino: ${this.experiencia + jogador.experiencia}")
+        jogador.experiencia += this.experiencia;
+
+        println("Experiência depois do treino: ${jogador.experiencia}")
 
     }
 }
