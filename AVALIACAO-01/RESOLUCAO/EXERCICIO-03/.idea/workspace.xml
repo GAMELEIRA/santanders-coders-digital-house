@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a26af2-2b04-4457-a1e3-393e2bd12d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIO-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Exercicio03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Atleta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Prova.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EXERCICIO-05/EXERCICIO-05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/src/main/Exercicio02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-02/src/main/Exercicio02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXERCICIO-02/src/models/SessaoDeTreinamento.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-02/src/models/SessaoDeTreinamento.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICIO-04/src/main/Exercicio04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIO-04/src/models/Carro.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EXERCICIO-04/src/models/Carro.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600130298684</updated>
-      <workItem from="1600130300269" duration="2250000" />
+      <workItem from="1600130300269" duration="2702000" />
     </task>
     <servers />
   </component>
