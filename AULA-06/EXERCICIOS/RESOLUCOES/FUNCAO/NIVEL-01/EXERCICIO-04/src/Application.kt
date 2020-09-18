@@ -24,7 +24,7 @@ fun main () {
         do {
 
             primeiroLancamento = lancarDado();
-
+y
             continua = validacoes(primeiroLancamento);
 
             if(!continua){
