@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/EXERCICIO-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Aluno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Aula.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Curso.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Materia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Pessoa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Professor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Turma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Fatura.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Item.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Loja.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-03/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-03/src/models/Estoque.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hq7JbLAlDgcQT9Q8V0J1YzcbMd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="EXERCICIO-01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.ApplicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="" />
+      <created>1600726718895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600726718895</updated>
+      <workItem from="1600726720245" duration="2299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1600727732287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600727732287" />
+    <state x="1637" y="0" key="new project wizard" timestamp="1600729045913">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1637" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600729045913" />
+  </component>
+</project>
