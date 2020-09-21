@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/EXERCICIO-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Aluno.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Aula.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Curso.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Materia.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Pessoa.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Professor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-01/src/models/Turma.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Fatura.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Item.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-02/src/Loja.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-03/src/main/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../AULA-10/EXERCICIOS/RESOLUCOES/EXERCICIO-03/src/models/Estoque.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-01/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-01/src/models/EntidadesValidamPessoas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-01/src/models/Pessoa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-01/src/models/PoliciaFederal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600726718895</updated>
-      <workItem from="1600726720245" duration="2299000" />
+      <workItem from="1600726720245" duration="2889000" />
     </task>
     <servers />
   </component>
