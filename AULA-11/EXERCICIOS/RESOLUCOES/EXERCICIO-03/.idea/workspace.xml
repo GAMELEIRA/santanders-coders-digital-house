@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="">
+    <list default="true" id="42eab39b-5835-414b-b8c7-3877a90e70c1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -12,19 +12,19 @@
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/EXERCICIO-02.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/src/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/EXERCICIO-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/main/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/models/Aluno.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCICIO-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Aluno.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AULA-PRATICA/EXERCICIO-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AULA-PRATICA/EXERCICIO-01/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -48,7 +49,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1hq7JbLAlDgcQT9Q8V0J1YzcbMd" />
+  <component name="ProjectId" id="1hqK8sRECawgh8zmTSOmVY9PUtO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -64,6 +66,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -78,7 +81,7 @@
       </method>
     </configuration>
     <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="EXERCICIO-01" />
+      <module name="EXERCICIO-03" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -99,12 +102,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="" />
-      <created>1600726718895</created>
+      <changelist id="42eab39b-5835-414b-b8c7-3877a90e70c1" name="Default Changelist" comment="" />
+      <created>1600733029235</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600726718895</updated>
-      <workItem from="1600726720245" duration="2889000" />
+      <updated>1600733029235</updated>
+      <workItem from="1600733030477" duration="2416000" />
     </task>
     <servers />
   </component>
@@ -112,13 +115,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="472" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1600727732287">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600735208450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600727732287" />
-    <state x="1637" y="0" key="new project wizard" timestamp="1600729045913">
-      <screen x="1366" y="0" width="1360" height="728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600735208450" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600735208449">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1637" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600729045913" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600735208449" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600735208449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600735208449" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600735208449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600735208449" />
+    <state x="274" y="0" key="new project wizard" timestamp="1600734422507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600734422507" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1600733368847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600733368847" />
   </component>
 </project>
