@@ -11,13 +11,13 @@ import models.Aluno
 
 fun main () {
 
-    val alunos: ArrayList<Aluno> = ArrayList<Aluno>();
+    val alunos: ArrayList<Aluno> = ArrayList()
 
-    val novoAluno: Aluno = Aluno("Gabriel", 10);
+    val novoAluno = Aluno("G", 10);
 
     adicionarAlunos(4,alunos);
 
-    println(alunos.contains(alunos));
+    println(alunos.contains(novoAluno));
 
 }
 
@@ -42,3 +42,13 @@ fun adicionarAlunos(quantidade: Int, alunos: ArrayList<Aluno>) {
     }
 
 }
+
+/**fun main() {
+    val listaDeAlunos = arrayListOf<Aluno>()
+    listaDeAlunos.add(Aluno("Aluno 1", 1))
+    listaDeAlunos.add(Aluno("Aluno 2", 2))
+    listaDeAlunos.add(Aluno("Aluno 3", 3))
+    listaDeAlunos.add(Aluno("Aluno 4", 4))
+    val alunoNovo = Aluno("Aluno novo", 2)
+    println(listaDeAlunos.contains(alunoNovo))
+}*/

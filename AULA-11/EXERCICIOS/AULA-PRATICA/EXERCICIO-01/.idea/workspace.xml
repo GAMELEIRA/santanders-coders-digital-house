@@ -2,29 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d99e400-410d-482a-a6dc-d6a4c3224195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/EXERCICIO-02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/src/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/EXERCICIO-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/main/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/models/Aluno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-04/EXERCICIO-04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/src/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AULA-PRATICA/EXERCICIO-02/src/Application.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/out/production/EXERCICIO-03/main/ApplicationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/out/production/EXERCICIO-03/main/ApplicationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/main/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESOLUCOES/EXERCICIO-03/src/main/Application.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +107,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="472" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1600727732287" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1600737179739">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600737179739" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1600737179738">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600737179738" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1600737179738">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600737179738" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1600737179738">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1600737179738" />
     <state x="1637" y="0" key="new project wizard" timestamp="1600729045913">
       <screen x="1366" y="0" width="1360" height="728" />
     </state>

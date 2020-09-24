@@ -1,6 +1,6 @@
 package models
 
-class Aluno constructor(var nome: String, var numeroAluno: Int){
+class Aluno(private var nome: String, private var numeroAluno: Int){
 
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
