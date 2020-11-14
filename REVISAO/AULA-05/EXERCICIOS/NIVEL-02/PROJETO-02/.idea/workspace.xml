@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45c732ed-3638-474a-9b4f-6aa2826835e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/PROJETO-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-02/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/PROJETO-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-03/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/PROJETO-04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CASA/PROJETO-04/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/PROJETO-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-01/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/PROJETO-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-02/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/PROJETO-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 01/PROJETO-03/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/EXERCICIOS/NIVEL 02/PROJETO-01/src/main/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/PROJETO-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AULA-06/PRATICA/PROJETO-01/src/main/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/out/production/EXERCICIO-03/ApplicationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../AULA-04/EXERCICIOS/RESOLUCOES/LICAO-DE-CASA/EXERCICIO-03/out/production/EXERCICIO-03/META-INF/EXERCICIO-03.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LISTA DE EXERCICIO/Exercício - Sequêncial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LISTA DE EXERCICIO/Exercício Casa - Sequêncial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jz0LSupPdn7WgpwXr6syykv3D3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45c732ed-3638-474a-9b4f-6aa2826835e4" name="Default Changelist" comment="" />
+      <created>1604791559228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604791559228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="65" y="0" key="new project wizard" timestamp="1604793546318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1604793546318" />
+  </component>
+</project>
